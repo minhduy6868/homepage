@@ -107,7 +107,8 @@ filter: drop-shadow(0px 10px 4px rgba(0, 0, 0, 0.17));
     font-size: 1.05rem;
 }
 .content .box-right .background img{
-   
+    display: flex;
+    justify-content: left;
     max-width: 725px;
 }
 .content .box-right .background, .img1{
